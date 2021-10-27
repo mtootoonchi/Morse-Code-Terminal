@@ -1,5 +1,5 @@
-Here is my project for ECE 3300L for Lab 12.
+THis is my morse code terminal.
 
-Here are the videos.
+Here is a video describing it.
 
 https://youtu.be/oWxFJKBiRn4
