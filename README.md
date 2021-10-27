@@ -1,4 +1,4 @@
-THis is my morse code terminal.
+This is my morse code terminal.
 
 Here is a video describing it.
 
