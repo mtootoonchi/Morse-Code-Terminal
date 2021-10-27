@@ -1,3 +1,5 @@
-# Morse-Code-Terminal
+Here is my project for ECE 3300L for Lab 12.
 
-This project uses Verilog to create a Morse Decoder on a FPGA which then afterwards will display the results to a computer using the UART protocol. 
+Here are the videos.
+
+https://youtu.be/oWxFJKBiRn4
